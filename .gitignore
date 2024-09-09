@@ -1,0 +1,6 @@
+*.pyc
+.vscode
+output
+tensorboard_3d
+screenshots
+__pycache__
