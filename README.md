@@ -1,5 +1,8 @@
 # LLGS: Illuminating Gaussian Splatting via absorptance Modulation
 
+# Demo gif
+| ![First GIF](assets/buu.gif) | ![Second GIF](assets/chair.gif) | ![Third GIF](assets/shrub.gif) |
+| :--------------------------------------| :--------------------------------------| :--------------------------------------|
 
 # Real-world Low Light Scene
 We present a demonstration of the training effects on some real-world dark scenes.
